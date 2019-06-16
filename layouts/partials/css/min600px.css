@@ -36,6 +36,7 @@ justify-content: flex-start;
 }
 div.header .container .logo {
 margin: 0;
+padding: 1em;
 }
 div.header-home .container .logo {
 max-width: 216px;
